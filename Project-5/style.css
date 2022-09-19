@@ -1,0 +1,9 @@
+button{
+    background:green;
+    font-size:3rem;
+    border:0.2em solid black;
+}
+div{
+    width:50%;
+    margin:0 auto;
+}
